@@ -1,0 +1,22 @@
+#first{
+    padding-top: 50px;
+    text-align: center;
+}
+table{
+margin-left: 10%;
+margin-right: 10%;   
+margin-bottom: 10%;
+margin-top:2% ;
+table-layout:fixed;     
+text-align: center;  
+background-color: #99FFFF;
+background-size: 100%;
+padding:0%;
+}
+tr{
+    height: 100px;
+}
+body{
+    background-color: antiquewhite;
+}
+
